@@ -1,0 +1,21 @@
+{
+  "name": "retro-sunset-theme",
+  "displayName": "retro-sunset-theme",
+  "description": "A theme inspired by an 80s synthwave retro sunset",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retro Sunset Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Retro Sunset Theme-color-theme.json"
+      }
+    ]
+  }
+}
