@@ -1,12 +1,13 @@
 {
   "name": "retro-sunset-theme",
-  "displayName": "retro-sunset-theme",
+  "displayName": "Retro Sunset Theme",
+  "icon": "images/icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/phildaniels/retro-sunset-theme"
   },
   "description": "A theme inspired by retro sunsets of the 80s",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.75.0"
   },

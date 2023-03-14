@@ -8,17 +8,17 @@
 <div align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=PhilDanielsIO.retro-sunset-theme">
-    <img alt="marketplace version" src="https://img.shields.io/visual-studio-marketplace/i/PhilDanielsIO.retro-sunset-theme.svg?maxAge=3600&style=for-the-badge&labelColor=ed1d86&color=2b0773">
+    <img alt="marketplace version" src="https://img.shields.io/visual-studio-marketplace/i/PhilDanielsIO.retro-sunset-theme.svg?maxAge=3600&style=for-the-badge&labelColor=ed1d86&color=030A64">
   </a>
   &nbsp;&nbsp;
   <!-- downloads -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=PhilDanielsIO.">
-    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/PhilDanielsIO.retro-sunset-theme.svg?maxAge=3600&style=for-the-badge&labelColor=ed1d86&color=2b0773">
+  <a href="https://marketplace.visualstudio.com/items?itemName=PhilDanielsIO.retro-sunset-theme">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/PhilDanielsIO.retro-sunset-theme.svg?maxAge=3600&style=for-the-badge&labelColor=ed1d86&color=030A64">
   </a>
   &nbsp;&nbsp;
   <!-- rating -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=PhilDanielsIO.">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/PhilDanielsIO.retro-sunset-theme.svg?maxAge=86400&style=for-the-badge&labelColor=ed1d86&color=2b0773">
+  <a href="https://marketplace.visualstudio.com/items?itemName=PhilDanielsIO.retro-sunset-theme">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/PhilDanielsIO.retro-sunset-theme.svg?maxAge=86400&style=for-the-badge&labelColor=ed1d86&color=030A64">
   </a>
 </div>
 </br>
