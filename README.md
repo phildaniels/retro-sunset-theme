@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=PhilDanielsIO.retro-sunset-theme">
-    <img alt="Retro Sunset" src="https://raw.githubusercontent.com/phildaniels/retro-sunset-theme/master/retro-sunset-theme/images/retro-sunset.jpg">
+    <img alt="Retro Sunset" src="https://raw.githubusercontent.com/phildaniels/retro-sunset-theme/master/images/retro-sunset.jpg">
   </a>
   <div style="font-size: 25px" align="center">Retro Sunset Theme</h1>
 </div>
@@ -24,7 +24,7 @@
 </br>
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/phildaniels/retro-sunset-theme/master/retro-sunset-theme/images/screenshot.png"
+    src="https://raw.githubusercontent.com/phildaniels/retro-sunset-theme/master/images/screenshot.png"
     role="presentation"
 		alt="Screenshot of theme"
   />
